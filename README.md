@@ -1,2 +1,3 @@
 # bzOS
 Debian based os 
+In development still expect bugs and more....
