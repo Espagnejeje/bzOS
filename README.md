@@ -1,0 +1,2 @@
+# bzOS
+Debian based os 
