@@ -10,4 +10,4 @@ Yesn't, i will develop one for the Orange Pi zero (me big fan of zero based sbc'
 
 # When will it be released?
 
-After i arrive to spain i will start development 
+After i arrive to spain i will start development so yeah 
