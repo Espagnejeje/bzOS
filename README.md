@@ -1,7 +1,7 @@
 ## A SIDE PROJECT!!
 
 # bzOS
-Debian based os 
+Custom Debian installation for Borsuk & Zel incorporated (100% real name)  
 In development still expect bugs and more....
 
 # Why bzOS
